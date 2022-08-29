@@ -4,7 +4,7 @@
   <url>
     <loc>https://jsq180.github.io/manifest.json</loc>
     
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://jsq180.github.io/posts/74b32545.html</loc>
     
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
 
   <url>
     <loc>https://jsq180.github.io/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +30,7 @@
   
   <url>
     <loc>https://jsq180.github.io/tags/React-%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
