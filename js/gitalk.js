@@ -1,0 +1,1 @@
+const gitalk=new Gitalk({clientID:"53b0217698a37ed0e1f7",clientSecret:"beb3b323e40ec054aec4c034c7401603ae9b1f5e ",repo:"JSQ180.github.io",owner:"JSQ180",admin:["JSQ180"],id:location.pathname,distractionFreeMode:!1});gitalk.render("gitalk-container");
