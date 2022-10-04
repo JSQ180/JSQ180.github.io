@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jsq180.github.io/posts/b8da6349.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jsq180.github.io/posts/8582cb39.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -22,7 +13,7 @@
   <url>
     <loc>https://jsq180.github.io/manifest.json</loc>
     
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
   <url>
     <loc>https://jsq180.github.io/link/index.html</loc>
     
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>https://jsq180.github.io/tags/index.html</loc>
     
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,7 @@
   <url>
     <loc>https://jsq180.github.io/categories/index.html</loc>
     
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +139,7 @@
 
   <url>
     <loc>https://jsq180.github.io/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,14 +147,14 @@
   
   <url>
     <loc>https://jsq180.github.io/tags/React/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jsq180.github.io/tags/React%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -172,14 +163,14 @@
   
   <url>
     <loc>https://jsq180.github.io/categories/React/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jsq180.github.io/categories/React/React%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
