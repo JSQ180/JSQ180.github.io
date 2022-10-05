@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jsq180.github.io/posts/ac517732.html</loc>
+    
+    <lastmod>2022-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jsq180.github.io/posts/9e0b1fdc.html</loc>
     
     <lastmod>2022-10-05</lastmod>
@@ -163,6 +172,13 @@
   
   <url>
     <loc>https://jsq180.github.io/tags/React%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85/</loc>
+    <lastmod>2022-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jsq180.github.io/tags/React%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/</loc>
     <lastmod>2022-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
